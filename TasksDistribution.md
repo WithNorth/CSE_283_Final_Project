@@ -11,5 +11,5 @@ Recurrence vs. Nonrecurrence classifier (Zihou Ye, Cheng Yang Lu)
 2. completed_classifier.py
 3. simple_viz.py
 
-# Reference
-# Some code take the reference on genAI to debug and modify.
+Reference:
+Some code take the reference on genAI to debug and modify.
