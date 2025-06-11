@@ -1,0 +1,16 @@
+genes                              properties
+ENSG00000179978                    NAIPP2 pseudogene
+ENSG00000216184                     miRNA
+ENSG00000187013                    LINC02875 non-protein coding RNA (lincRNA)
+ENSG00000114739                     ACVR2B    protein_coding
+ENSG00000221326                      miRNA
+ENSG00000231609                      EHBP1-AS1      non-coding RNA (lncRNA)
+ENSG00000124126                 PREX1 gene, protein coding,transcribe into mRNA,translated into a protein
+ENSG00000165675                  protein-coding gene,ENOX2
+ENSG00000167971                   protein_coding gene ,CASKIN1
+ENSG00000105401                   protein coding gene, CDC37
+ENSG00000176619                     protein-coding, LMNB2
+ENSG00000198242                 protein-coding gene, RPL23A
+ENSG00000183878                     protein_coding gene, UTY
+ENSG00000131002                     TXLNGY. pseudogene
+ENSG00000201098                    RNY1 gene, non-coding RNA (ncRNA). 
